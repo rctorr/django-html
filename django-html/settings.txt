@@ -1,0 +1,7 @@
+# Archivo de configuración del proyecto
+
+token =
+idioma =
+zona_horaria =
+...
+
